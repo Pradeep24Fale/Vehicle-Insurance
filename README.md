@@ -1,10 +1,16 @@
-# react-typescript-starter
-###### Minimalist React 18 starter template with TypeScript ⚛ without usage of create-react-app.
+# Vehicle-insurance
 
 Configured with:
 - Webpack
+- TypeScript
+- Material UI v4
+- axios
+- react-router-dom v6
 - ESLint
-- Prettier
 
-## Read post on medium:
-https://medium.com/@adriancelczynski/react-with-typescript-starter-kit-without-create-react-app-including-webpack-eslint-bef225c35ffa
+Steps to Run
+- npm install
+- run develop command from package.json(Application will start on localhost:8081)
+
+
+
